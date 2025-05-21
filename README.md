@@ -1,5 +1,8 @@
 # 💫 About Me:
-💻 I am currently a third-year student in the faculty of computer science at the University of Turin<br><br>❓ I am a fan of mystery movies, music and comic books.<br><br>🕹️ Casual competitive FPS player
+
+Hi there! 👋 <br>
+I'm a Computer Science graduate from the University of Turin.
+When I’m not coding, you’ll probably find me out in the mountains 🏞️ enjoying a good hike, or jumping into some competitive FPS games 🕹️. I’m always curious, always learning, and always up for a new challenge—both on screen and off.
 
 
 ## 🌐 Socials:
