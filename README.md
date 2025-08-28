@@ -2,7 +2,7 @@
 
 Hi there! 👋 <br>
 I'm a Computer Science graduate from the University of Turin.
-When I’m not coding, you’ll probably find me out in the mountains 🏞️ enjoying a good hike, or jumping into some competitive FPS games 🕹️. I’m always curious, always learning, and always up for a new challenge—both on screen and off.
+When I’m not coding, you’ll probably find me out in the mountains 🏞️ enjoying a good hike, or jumping into some competitive FPS games 🕹️. I’m always curious, always learning, and always up for a new challenge - both on screen and off.
 
 
 ## 🌐 Socials:
